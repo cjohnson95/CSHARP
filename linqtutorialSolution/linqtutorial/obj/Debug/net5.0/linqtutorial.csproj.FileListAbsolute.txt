@@ -1,0 +1,16 @@
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.exe
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.deps.json
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.runtimeconfig.json
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.runtimeconfig.dev.json
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.dll
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\ref\linqtutorial.dll
+C:\repos\linqtutorialSolution\linqtutorial\bin\Debug\net5.0\linqtutorial.pdb
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.csproj.AssemblyReference.cache
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.AssemblyInfoInputs.cache
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.AssemblyInfo.cs
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.csproj.CoreCompileInputs.cache
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.dll
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\ref\linqtutorial.dll
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.pdb
+C:\repos\linqtutorialSolution\linqtutorial\obj\Debug\net5.0\linqtutorial.genruntimeconfig.cache

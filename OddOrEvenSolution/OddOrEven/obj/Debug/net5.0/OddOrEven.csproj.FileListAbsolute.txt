@@ -1,0 +1,16 @@
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.AssemblyInfoInputs.cache
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.AssemblyInfo.cs
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.exe
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.deps.json
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.runtimeconfig.json
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.runtimeconfig.dev.json
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.dll
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\ref\OddOrEven.dll
+C:\repos\OddOrEvenSolution\OddOrEven\bin\Debug\net5.0\OddOrEven.pdb
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.dll
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\ref\OddOrEven.dll
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.pdb
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.genruntimeconfig.cache
+C:\repos\OddOrEvenSolution\OddOrEven\obj\Debug\net5.0\OddOrEven.csproj.AssemblyReference.cache

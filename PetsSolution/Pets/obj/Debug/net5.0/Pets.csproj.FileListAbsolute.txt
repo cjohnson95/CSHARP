@@ -1,0 +1,16 @@
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.exe
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.deps.json
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.runtimeconfig.json
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.runtimeconfig.dev.json
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.dll
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\ref\Pets.dll
+C:\repos\PetsSolution\Pets\bin\Debug\net5.0\Pets.pdb
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.csproj.AssemblyReference.cache
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.AssemblyInfoInputs.cache
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.AssemblyInfo.cs
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.csproj.CoreCompileInputs.cache
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.dll
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\ref\Pets.dll
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.pdb
+C:\repos\PetsSolution\Pets\obj\Debug\net5.0\Pets.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\repos\MathLibSolution\StringLib1\bin\Debug\net5.0\StringLib1.deps.json
+C:\repos\MathLibSolution\StringLib1\bin\Debug\net5.0\StringLib1.dll
+C:\repos\MathLibSolution\StringLib1\bin\Debug\net5.0\ref\StringLib1.dll
+C:\repos\MathLibSolution\StringLib1\bin\Debug\net5.0\StringLib1.pdb
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.csproj.AssemblyReference.cache
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.AssemblyInfoInputs.cache
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.AssemblyInfo.cs
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.csproj.CoreCompileInputs.cache
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.dll
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\ref\StringLib1.dll
+C:\repos\MathLibSolution\StringLib1\obj\Debug\net5.0\StringLib1.pdb

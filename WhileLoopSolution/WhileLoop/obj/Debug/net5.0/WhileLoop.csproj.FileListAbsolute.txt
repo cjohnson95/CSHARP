@@ -1,0 +1,5 @@
+C:\repos\WhileLoopSolution\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.AssemblyReference.cache
+C:\repos\WhileLoopSolution\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WhileLoopSolution\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+C:\repos\WhileLoopSolution\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+C:\repos\WhileLoopSolution\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache

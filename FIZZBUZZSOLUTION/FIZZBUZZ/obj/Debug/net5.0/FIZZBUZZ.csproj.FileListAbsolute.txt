@@ -1,0 +1,16 @@
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.csproj.AssemblyReference.cache
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.AssemblyInfoInputs.cache
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.AssemblyInfo.cs
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.csproj.CoreCompileInputs.cache
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.exe
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.deps.json
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.runtimeconfig.json
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.runtimeconfig.dev.json
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.dll
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\ref\FIZZBUZZ.dll
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\bin\Debug\net5.0\FIZZBUZZ.pdb
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.dll
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\ref\FIZZBUZZ.dll
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.pdb
+C:\repos\FIZZBUZZSOLUTION\FIZZBUZZ\obj\Debug\net5.0\FIZZBUZZ.genruntimeconfig.cache

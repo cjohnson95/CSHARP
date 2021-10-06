@@ -1,0 +1,16 @@
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.csproj.AssemblyReference.cache
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.AssemblyInfoInputs.cache
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.AssemblyInfo.cs
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.csproj.CoreCompileInputs.cache
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.exe
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.deps.json
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.runtimeconfig.json
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.runtimeconfig.dev.json
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.dll
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\ref\BootCampCurriculum.dll
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\bin\Debug\net5.0\BootCampCurriculum.pdb
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.dll
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\ref\BootCampCurriculum.dll
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.pdb
+C:\repos\BootCampCurriculumSolution\BootCampCurriculum\obj\Debug\net5.0\BootCampCurriculum.genruntimeconfig.cache

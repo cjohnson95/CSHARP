@@ -1,0 +1,5 @@
+C:\repos\PracticeMethodsSolution\PracticeMethods\obj\Debug\net5.0\PracticeMethods.csproj.AssemblyReference.cache
+C:\repos\PracticeMethodsSolution\PracticeMethods\obj\Debug\net5.0\PracticeMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PracticeMethodsSolution\PracticeMethods\obj\Debug\net5.0\PracticeMethods.AssemblyInfoInputs.cache
+C:\repos\PracticeMethodsSolution\PracticeMethods\obj\Debug\net5.0\PracticeMethods.AssemblyInfo.cs
+C:\repos\PracticeMethodsSolution\PracticeMethods\obj\Debug\net5.0\PracticeMethods.csproj.CoreCompileInputs.cache

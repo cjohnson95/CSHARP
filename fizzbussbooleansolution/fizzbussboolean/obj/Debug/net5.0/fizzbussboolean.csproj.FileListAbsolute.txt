@@ -1,0 +1,15 @@
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.AssemblyInfoInputs.cache
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.AssemblyInfo.cs
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.csproj.CoreCompileInputs.cache
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.exe
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.deps.json
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.runtimeconfig.json
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.runtimeconfig.dev.json
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.dll
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\ref\fizzbussboolean.dll
+C:\repos\fizzbussbooleansolution\fizzbussboolean\bin\Debug\net5.0\fizzbussboolean.pdb
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.dll
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\ref\fizzbussboolean.dll
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.pdb
+C:\repos\fizzbussbooleansolution\fizzbussboolean\obj\Debug\net5.0\fizzbussboolean.genruntimeconfig.cache

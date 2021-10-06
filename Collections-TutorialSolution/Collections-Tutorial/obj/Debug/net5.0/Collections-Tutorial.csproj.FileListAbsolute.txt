@@ -1,0 +1,16 @@
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.exe
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.deps.json
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.runtimeconfig.json
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.runtimeconfig.dev.json
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.dll
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\ref\Collections-Tutorial.dll
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\bin\Debug\net5.0\Collections-Tutorial.pdb
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.csproj.AssemblyReference.cache
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.AssemblyInfoInputs.cache
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.AssemblyInfo.cs
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.csproj.CoreCompileInputs.cache
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.dll
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\ref\Collections-Tutorial.dll
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.pdb
+C:\repos\Collections-TutorialSolution\Collections-Tutorial\obj\Debug\net5.0\Collections-Tutorial.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\repos\WhileLoopAttempt2 solution\WhileLoopAttempt2\obj\Debug\net5.0\WhileLoopAttempt2.csproj.AssemblyReference.cache
+C:\repos\WhileLoopAttempt2 solution\WhileLoopAttempt2\obj\Debug\net5.0\WhileLoopAttempt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WhileLoopAttempt2 solution\WhileLoopAttempt2\obj\Debug\net5.0\WhileLoopAttempt2.AssemblyInfoInputs.cache
+C:\repos\WhileLoopAttempt2 solution\WhileLoopAttempt2\obj\Debug\net5.0\WhileLoopAttempt2.AssemblyInfo.cs
+C:\repos\WhileLoopAttempt2 solution\WhileLoopAttempt2\obj\Debug\net5.0\WhileLoopAttempt2.csproj.CoreCompileInputs.cache

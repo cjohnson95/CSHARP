@@ -1,0 +1,16 @@
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.exe
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.deps.json
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.runtimeconfig.json
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.runtimeconfig.dev.json
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.dll
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\ref\AssignmentvsEquality.dll
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\bin\Debug\net5.0\AssignmentvsEquality.pdb
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.csproj.AssemblyReference.cache
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.AssemblyInfoInputs.cache
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.AssemblyInfo.cs
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.csproj.CoreCompileInputs.cache
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.dll
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\ref\AssignmentvsEquality.dll
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.pdb
+C:\repos\AssignmentvsEqualitySolution\AssignmentvsEquality\obj\Debug\net5.0\AssignmentvsEquality.genruntimeconfig.cache

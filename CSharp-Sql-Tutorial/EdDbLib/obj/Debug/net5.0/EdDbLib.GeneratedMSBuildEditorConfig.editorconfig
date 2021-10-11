@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = EdDbLib
-build_property.ProjectDir = C:\repos\CSharp-Sql-Tutorial\EdDbLib\
+build_property.ProjectDir = C:\Users\Max-Student\Repos\CSharp-Sql-Tutorial\EdDbLib\
